@@ -1,4 +1,4 @@
-# Use My Notes
+## Use My Notes
 
 [Use My Notes](https://usemynotes.com/) is an Education Website for providing all technical course material. Use My Notes is free of cost-based website no charges it's fully freely.
 
