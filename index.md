@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>About Use My Notes</title>
+  <meta charset="UTF-8">  
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta name="author" content="Alimam Miya">
+  <link rel="canonical" href="https://alimammiya.github.io/usemynotes/" />
+<meta name="google-site-verification" content="eqa7qVh2vTjqjclY6PFto00J10foXEiSRDmhosW6cbU" />
+  <meta name="description" content="Use My Notes is a website that offers a variety of tools and resources to help students, professionals, and anyone who takes notes to organize and optimize their note-taking process." /> 
+  
+
 ## Use My Notes
 
 [Use My Notes](https://usemynotes.com/) is an Education Website for providing all technical course material. Use My Notes is free of cost-based website no charges it's fully freely.
